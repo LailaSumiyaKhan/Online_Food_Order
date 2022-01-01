@@ -1,0 +1,46 @@
+body{
+    background-color: lightgreen;
+}
+h3{
+    text-align: center;
+    color: grey;
+    font-size: 20px;}
+
+.header{
+    width: 40%; margin-left: 350px ; color: lightgreen; background: green; text-align: left; border: 1px solid #B0C4DE; border-bottom: none;  padding: 20px;}
+
+.box{
+    width:1000px;
+        float:right;
+}
+.box ul li a{
+        text-decoration: none;
+        color: green;
+        font-size: 25px;
+         }
+         .box ul li:hover{background-color: darkgrey;}
+.box ul li a:hover{color: white;}
+
+.box ul li{
+        width: 120px;
+        float: left;
+        margin:10px auto;
+        text-align: center;}
+
+
+
+.cn{ text-align: center; margin: 50px; }
+
+.info .a { width: 40%; margin: 0px 350px; color: lightgreen; background: green; text-align: left; border: 1px solid #B0C4DE; border-bottom: none;  padding: 20px; }
+
+.input-group{ margin: 0px 10px 0px 10px; }
+.btn{ padding: 10px; margin-left: 400px;font-size: 20px; color: white; background: lightgreen; border: none; border-radius:5px;}	
+    
+    clm{
+        float: right;
+        width: 25%;
+        padding: 70px;}
+    
+    
+
+    

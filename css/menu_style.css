@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+}
+h3{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+    
+}
+.box{
+    width:1000px;
+        float:right;
+}
+.box ul li a{
+        text-decoration: none;
+        color: green;
+        font-size: 25px;
+         }
+
+.box ul li:hover{background-color: darkgrey;}
+.box ul li a:hover{color: white;}
+
+.box ul li{
+        width: 120px;
+        float: left;
+        margin:10px auto;
+        text-align: center;}
+
+.title{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    }
+    .row{
+        box-sizing: border-box;}
+    .clm{
+        float: left;
+        width: 25%;
+        padding: 50px;}
+    .clm img{
+        height: 300px;
+    }
