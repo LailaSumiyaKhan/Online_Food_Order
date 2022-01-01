@@ -1,7 +1,8 @@
 body{
     font-family: latha;
     color: white;
-    background: url(img/fast.jpg)no-repeat;
+    background-image: url("../img/fast.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .box{
