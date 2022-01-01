@@ -1,0 +1,33 @@
+body{
+    font-family: latha;
+    color: white;
+    background: url(img/fast.jpg)no-repeat;
+    background-size: cover;
+}
+.box{
+    width:900px;
+    float:right;
+
+    }
+.box ul li{
+    width: 120px;
+    float: left;
+    margin:10px auto;
+    text-align: center;}
+.box ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px}
+
+.box ul li:hover{background-color:black;}
+.box ul li a:hover{color: white;}
+.wd{
+ width: 300px;
+ height: 539px;
+ text-align: center;
+ background-color: black;
+ opacity:0.9;
+ padding: 55px;}
+ .wd h4{
+     color: darkgrey;
+ }
